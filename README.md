@@ -27,11 +27,10 @@
 
 
 РЕАЛИЗАЦИЯ ПРОГРАММЫ:
+
 #include <stdio.h>
 #include <locale.h>
 #define MAX_SIZE 100
-
-
 int main() {
     setlocale(LC_ALL, "RUS");
     int n;
